@@ -13,6 +13,7 @@ Solving sql questions
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/siddhijais/SQL_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddhijais/SQL_Practice/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -40,4 +41,8 @@ Solving sql questions
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/siddhijais/SQL_Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

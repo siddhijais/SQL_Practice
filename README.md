@@ -14,10 +14,12 @@ Solving sql questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddhijais/SQL_Practice/tree/master/0169-majority-element) |
+| [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddhijais/SQL_Practice/tree/master/0169-majority-element) |
+| [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,4 +32,12 @@ Solving sql questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddhijais/SQL_Practice/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

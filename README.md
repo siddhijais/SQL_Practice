@@ -36,6 +36,7 @@ Solving sql questions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/siddhijais/SQL_Practice/tree/master/0050-powx-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -45,4 +46,8 @@ Solving sql questions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/siddhijais/SQL_Practice/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/siddhijais/SQL_Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

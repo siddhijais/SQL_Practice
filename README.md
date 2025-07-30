@@ -13,6 +13,7 @@ Solving sql questions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddhijais/SQL_Practice/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/siddhijais/SQL_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddhijais/SQL_Practice/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -50,4 +51,12 @@ Solving sql questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddhijais/SQL_Practice/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/siddhijais/SQL_Practice/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/siddhijais/SQL_Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

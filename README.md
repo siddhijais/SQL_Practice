@@ -15,6 +15,7 @@ Solving sql questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddhijais/SQL_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddhijais/SQL_Practice/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/siddhijais/SQL_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddhijais/SQL_Practice/tree/master/0169-majority-element) |
@@ -63,9 +64,11 @@ Solving sql questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddhijais/SQL_Practice/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

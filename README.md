@@ -42,6 +42,7 @@ Solving sql questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddhijais/SQL_Practice/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -71,4 +72,9 @@ Solving sql questions
 | ------- |
 | [0045-jump-game-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

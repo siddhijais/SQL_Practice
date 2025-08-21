@@ -73,8 +73,13 @@ Solving sql questions
 | [0045-jump-game-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/siddhijais/SQL_Practice/tree/master/0072-edit-distance) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/siddhijais/SQL_Practice/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->

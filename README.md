@@ -82,4 +82,12 @@ Solving sql questions
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/siddhijais/SQL_Practice/tree/master/0072-edit-distance) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/siddhijais/SQL_Practice/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/siddhijais/SQL_Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

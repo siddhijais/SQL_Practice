@@ -19,6 +19,7 @@ Solving sql questions
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/siddhijais/SQL_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddhijais/SQL_Practice/tree/master/0169-majority-element) |
+| [0909-stone-game](https://github.com/siddhijais/SQL_Practice/tree/master/0909-stone-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ Solving sql questions
 | ------- |
 | [0050-powx-n](https://github.com/siddhijais/SQL_Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
+| [0909-stone-game](https://github.com/siddhijais/SQL_Practice/tree/master/0909-stone-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -74,6 +76,7 @@ Solving sql questions
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/siddhijais/SQL_Practice/tree/master/0072-edit-distance) |
+| [0909-stone-game](https://github.com/siddhijais/SQL_Practice/tree/master/0909-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -90,4 +93,8 @@ Solving sql questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/siddhijais/SQL_Practice/tree/master/0155-min-stack) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/siddhijais/SQL_Practice/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->

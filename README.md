@@ -15,6 +15,7 @@ Solving sql questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddhijais/SQL_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddhijais/SQL_Practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/siddhijais/SQL_Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/siddhijais/SQL_Practice/tree/master/0074-search-a-2d-matrix) |
@@ -66,6 +67,7 @@ Solving sql questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddhijais/SQL_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddhijais/SQL_Practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/siddhijais/SQL_Practice/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Solving sql questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/siddhijais/SQL_Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
@@ -91,6 +94,7 @@ Solving sql questions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/siddhijais/SQL_Practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/siddhijais/SQL_Practice/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -105,4 +109,8 @@ Solving sql questions
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/siddhijais/SQL_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/siddhijais/SQL_Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

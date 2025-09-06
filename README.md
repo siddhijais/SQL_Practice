@@ -20,6 +20,7 @@ Solving sql questions
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/siddhijais/SQL_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/siddhijais/SQL_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddhijais/SQL_Practice/tree/master/0169-majority-element) |
 | [0909-stone-game](https://github.com/siddhijais/SQL_Practice/tree/master/0909-stone-game) |
@@ -57,6 +58,7 @@ Solving sql questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/siddhijais/SQL_Practice/tree/master/0136-single-number) |
 ## Recursion
 |  |
@@ -113,4 +115,8 @@ Solving sql questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhijais/SQL_Practice/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

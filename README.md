@@ -98,6 +98,7 @@ Solving sql questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhijais/SQL_Practice/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddhijais/SQL_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/siddhijais/SQL_Practice/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -121,4 +122,16 @@ Solving sql questions
 | ------- |
 | [0090-subsets-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/siddhijais/SQL_Practice/tree/master/0093-restore-ip-addresses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddhijais/SQL_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddhijais/SQL_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddhijais/SQL_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

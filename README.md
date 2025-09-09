@@ -93,6 +93,7 @@ Solving sql questions
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/siddhijais/SQL_Practice/tree/master/0072-edit-distance) |
+| [0093-restore-ip-addresses](https://github.com/siddhijais/SQL_Practice/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
 | ------- |
@@ -119,4 +120,5 @@ Solving sql questions
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/siddhijais/SQL_Practice/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->

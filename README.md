@@ -84,6 +84,7 @@ Solving sql questions
 | [0055-jump-game](https://github.com/siddhijais/SQL_Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/siddhijais/SQL_Practice/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0909-stone-game](https://github.com/siddhijais/SQL_Practice/tree/master/0909-stone-game) |
 ## Memoization
 |  |
@@ -122,10 +123,12 @@ Solving sql questions
 | ------- |
 | [0090-subsets-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/siddhijais/SQL_Practice/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siddhijais/SQL_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,4 +137,9 @@ Solving sql questions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siddhijais/SQL_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->

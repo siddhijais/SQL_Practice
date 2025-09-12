@@ -51,6 +51,7 @@ Solving sql questions
 | [0070-climbing-stairs](https://github.com/siddhijais/SQL_Practice/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/siddhijais/SQL_Practice/tree/master/0909-stone-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/siddhijais/SQL_Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/siddhijais/SQL_Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Solving sql questions
 | ------- |
 | [0072-edit-distance](https://github.com/siddhijais/SQL_Practice/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/siddhijais/SQL_Practice/tree/master/0093-restore-ip-addresses) |
+| [3462-vowels-game-in-a-string](https://github.com/siddhijais/SQL_Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Solving sql questions
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/siddhijais/SQL_Practice/tree/master/0909-stone-game) |
+| [3462-vowels-game-in-a-string](https://github.com/siddhijais/SQL_Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,4 +146,8 @@ Solving sql questions
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/siddhijais/SQL_Practice/tree/master/0095-unique-binary-search-trees-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/siddhijais/SQL_Practice/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
